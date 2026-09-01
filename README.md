@@ -50,11 +50,5 @@ See [SYLLABUS.md](SYLLABUS.md) for descriptions and direct links.
 - [`docs/`](docs/) — GitHub Pages course landing page
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to propose corrections
 
-## GitHub Pages
 
-After creating the repository, enable **Settings → Pages → Deploy from a branch**, select `main`, and choose `/docs`. The public course landing page will then be served from the repository.
-
-## Attribution
-
-This repository organizes and summarizes material linked from the original course page. External readings, videos, standards, and other resources remain subject to their respective owners' terms.
 
