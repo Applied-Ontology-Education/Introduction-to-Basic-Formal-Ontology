@@ -2,11 +2,7 @@
 
 An open course repository for learning Basic Formal Ontology (BFO): its central distinctions, philosophical foundations, formal representations, and use as a top-level ontology across scientific, biomedical, industrial, and government domains.
 
-**Course lead:** Barry Smith  
-**Format:** Online, asynchronous  
-**Course site:** [View the complete course page](https://aowiki.nsm.buffalo.edu/index.php/Introduction_to_Basic_Formal_Ontology:_Fall_2026)
-
-The linked course page is the authoritative source for the current schedule, announcements, deadlines, and course-specific requirements. This repository provides a public, organization-neutral route into the course materials.
+This repository provides a public, organization-neutral route into the course materials.
 
 ## Learning goals
 
@@ -40,11 +36,8 @@ By working through the course, learners should be able to:
 | 14 | Learner presentations I |
 | 15 | Learner presentations II |
 
-See [SYLLABUS.md](SYLLABUS.md) for descriptions and direct links.
-
 ## Repository contents
 
-- [`SYLLABUS.md`](SYLLABUS.md) — week-by-week learning path
 - [`RESOURCES.md`](RESOURCES.md) — standards, readings, ontologies, and supplementary videos
 - [`ASSIGNMENTS.md`](ASSIGNMENTS.md) — public-facing assignment framework
 - [`docs/`](docs/) — GitHub Pages course landing page

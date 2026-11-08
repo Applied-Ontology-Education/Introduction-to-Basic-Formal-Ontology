@@ -1,6 +1,6 @@
 # Assignments
 
-The formal course assessment centers on an essay and a presentation addressing an issue concerning BFO's use or reception. Learners should consult the [complete course page](https://aowiki.nsm.buffalo.edu/index.php/Introduction_to_Basic_Formal_Ontology:_Fall_2026) for current deadlines and instructor guidance.
+The formal course assessment centers on an essay and a presentation addressing an issue concerning BFO's use or reception.
 
 ## Suggested workflow
 
